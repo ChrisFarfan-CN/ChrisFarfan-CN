@@ -3,7 +3,7 @@
 | 🏷️ | He/Him,They/Them |
 |-|-|
 | 🎓 | I teach Cybersecurity and Technology fundamentals for [CodeNation](https://wearecodenation.com/)! |
-| 💼 |  This is my work account primarily for sharing scripts and teaching folks about Git and Github. |
+| 💼 | This is my work account primarily for sharing scripts and teaching folks about Git and Github. |
 | 📧 | Email: [chris.farfan@wearecodenation.com](chris.farfan@wearecodenation.com) |
 
 
